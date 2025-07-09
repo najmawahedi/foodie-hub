@@ -1,35 +1,35 @@
-# 🍔 Foodie Hub – Backend API
+# Foodie Hub – Backend API
 
 This is the backend system for **Foodie Hub**, a public food ordering platform that allows users to browse restaurants, view menus, place orders, and track them — **no login required**.
 
 ---
 
-## 📌 Project Purpose
+## Project Purpose
 
 This project was built to demonstrate full backend development using Node.js, Express, and PostgreSQL. The system follows a modular MVC structure and provides RESTful APIs for restaurant, menu, customer, and order management.
 
 ---
 
-## 🧠 Features Implemented
+## Features Implemented
 
-### 🏪 Restaurant Management
+### Restaurant Management
 - Add a new restaurant
 - View all restaurants
 - Edit restaurant details
 - Delete a restaurant
 
-### 🧾 Menu Management
+### Menu Management
 - Add menu items to a restaurant
 - Edit or remove menu items
 - List all menu items for a restaurant
 - Mark menu items as available/unavailable
 
-### 👤 Customer Management
+### Customer Management
 - Add a new customer (name & phone only)
 - View all customers
 - Update or delete customer info
 
-### 🛒 Ordering System
+### Ordering System
 - Place an order with selected items and quantities
 - View all orders in the system
 - View all orders by a specific customer
@@ -38,7 +38,7 @@ This project was built to demonstrate full backend development using Node.js, Ex
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Node.js
 - Express
@@ -49,12 +49,12 @@ This project was built to demonstrate full backend development using Node.js, Ex
 
 ---
 
-## 📁 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/najmawahedi/foodie-hub-backend.git
-cd foodie-hub-backend
+git clone https://github.com/najmawahedi/foodie-hub.git
+cd foodie-hub
 ```
 
 ### 2.  Install dependencies
